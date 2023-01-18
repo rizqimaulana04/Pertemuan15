@@ -74,6 +74,7 @@
 2. Kemudian klik *File*
 3. Kemudian Buat *Notebook Baru*
 4. Beri nama proyeknya
+![image](image/gogglecolab.png)
 5. Kemudian Import Library yang telah kita install sebelumnya, untuk tampilannya seperti di bawah:
 ```sh
 import requests
